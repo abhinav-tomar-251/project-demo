@@ -8,7 +8,7 @@ const Dashboard = () => {
         <Sidebar />
       </div>
       <div className="w-3/4 min-h-screen px-12 py-8 flex flex-col justify-between">
-        <div>Dashboard</div>
+        <div>Abhinav's Dashboard</div>
       </div>
     </div>
   );
